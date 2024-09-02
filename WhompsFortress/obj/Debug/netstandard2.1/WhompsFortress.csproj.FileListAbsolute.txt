@@ -1,0 +1,11 @@
+C:\Users\Reale Studios\source\repos\WhompsFortress\WhompsFortress\bin\Debug\netstandard2.1\WhompsFortress.deps.json
+C:\Users\Reale Studios\source\repos\WhompsFortress\WhompsFortress\bin\Debug\netstandard2.1\WhompsFortress.dll
+C:\Users\Reale Studios\source\repos\WhompsFortress\WhompsFortress\obj\Debug\netstandard2.1\WhompsFortress.csproj.AssemblyReference.cache
+C:\Users\Reale Studios\source\repos\WhompsFortress\WhompsFortress\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Reale Studios\source\repos\WhompsFortress\WhompsFortress\obj\Debug\netstandard2.1\WhompsFortress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reale Studios\source\repos\WhompsFortress\WhompsFortress\obj\Debug\netstandard2.1\WhompsFortress.AssemblyInfoInputs.cache
+C:\Users\Reale Studios\source\repos\WhompsFortress\WhompsFortress\obj\Debug\netstandard2.1\WhompsFortress.AssemblyInfo.cs
+C:\Users\Reale Studios\source\repos\WhompsFortress\WhompsFortress\obj\Debug\netstandard2.1\WhompsFortress.csproj.CoreCompileInputs.cache
+C:\Users\Reale Studios\source\repos\WhompsFortress\WhompsFortress\obj\Debug\netstandard2.1\WhompsFortress.dll
+C:\Users\Reale Studios\source\repos\WhompsFortress\WhompsFortress\bin\Debug\netstandard2.1\LethalLib.dll
+C:\Users\Reale Studios\source\repos\WhompsFortress\WhompsFortress\obj\Debug\netstandard2.1\WhompsFo.DA07D2AB.Up2Date
